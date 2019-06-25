@@ -1,4 +1,4 @@
-# Pizzaria Desenvolvido em Java com NetBeans
+# Sistema para gestão de pizzaria em Java com NetBeans e PostgreSQL
 
 -O projeto utiliza o componente "JDateChooser" do pacote "JCalendar" no JFrame "ModuloRelatorio.java"<br>
 -O pacote encontra-se anexado a pasta do projeto, nomeado como: "jcalendar-1.3.3"<br><br>
