@@ -4,9 +4,9 @@
 -O pacote encontra-se anexado a pasta do projeto, nomeado como: "jcalendar-1.3.3"<br><br>
 
 
-====================================================<br>
-=========  INSTRUÇÕES PARA ADICIONAR O PACOTE  ===============<br>
-====================================================<br>
+==============================================<br>
+=========  INSTRUÇÕES PARA ADICIONAR O PACOTE  =========<br>
+==============================================<br>
 
 1º Dentro da IDE NetBeans clique em “Ferramentas > Paleta > Componentes Swing/AWT”.<br>
 2º Clique em “Nova Categoria” e de o nome desejado (ex: Calendário).<br>
